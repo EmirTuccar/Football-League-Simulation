@@ -1,0 +1,14 @@
+D:\EmirTüccar\c#\Lig Porgramlama\Lig siste4mi\bin\Debug\Lig siste4mi.exe.config
+D:\EmirTüccar\c#\Lig Porgramlama\Lig siste4mi\bin\Debug\Lig siste4mi.exe
+D:\EmirTüccar\c#\Lig Porgramlama\Lig siste4mi\bin\Debug\Lig siste4mi.pdb
+D:\EmirTüccar\c#\Lig Porgramlama\Lig siste4mi\obj\Debug\Lig siste4mi.csproj.AssemblyReference.cache
+D:\EmirTüccar\c#\Lig Porgramlama\Lig siste4mi\obj\Debug\Lig siste4mi.csproj.SuggestedBindingRedirects.cache
+D:\EmirTüccar\c#\Lig Porgramlama\Lig siste4mi\obj\Debug\Lig_siste4mi.Form1.resources
+D:\EmirTüccar\c#\Lig Porgramlama\Lig siste4mi\obj\Debug\Lig_siste4mi.Properties.Resources.resources
+D:\EmirTüccar\c#\Lig Porgramlama\Lig siste4mi\obj\Debug\Lig siste4mi.csproj.GenerateResource.cache
+D:\EmirTüccar\c#\Lig Porgramlama\Lig siste4mi\obj\Debug\Lig siste4mi.csproj.CoreCompileInputs.cache
+D:\EmirTüccar\c#\Lig Porgramlama\Lig siste4mi\obj\Debug\Lig siste4mi.exe
+D:\EmirTüccar\c#\Lig Porgramlama\Lig siste4mi\obj\Debug\Lig siste4mi.pdb
+D:\EmirTüccar\c#\Lig Porgramlama\Lig siste4mi\obj\Debug\Lig_siste4mi.Form2.resources
+D:\EmirTüccar\c#\Lig Porgramlama\Lig siste4mi\obj\Debug\Lig_siste4mi.Form3.resources
+D:\EmirTüccar\c#\Lig Porgramlama\Lig siste4mi\obj\Debug\Lig_siste4mi.Form4.resources
